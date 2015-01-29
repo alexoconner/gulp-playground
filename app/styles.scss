@@ -1,0 +1,17 @@
+/*
+ * sample sass file
+ */
+
+
+$black: #000000;
+
+body {
+    color: $black;
+}
+
+
+article {
+    p {
+        line-height: 1.5;
+    }
+}
