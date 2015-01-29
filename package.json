@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@bitbucket.org:a_skrabl/gulp-playground.git"
+    "url": "git@github.com:alexoconner/gulp-playground.git"
   },
   "author": "Alexander Skrabl",
   "license": "none"
